@@ -10,6 +10,6 @@
 ## Main Window
 <p align='center'>
   <a>
-    <img alt="GIF" src="https://github.com/Kushagrabainsla/Speech-Translator/blob/main/main_window.png?raw=true" width="550" height="650" />
+    <img alt="GIF" src="https://github.com/Kushagrabainsla/Speech-Translator/blob/main/main_window.png?raw=true" />
   </a>&nbsp;&nbsp;
 </p>
