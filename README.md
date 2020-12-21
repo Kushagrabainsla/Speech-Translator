@@ -1,5 +1,6 @@
 # Speech-Translator
-Speech translation is the process by which conversational spoken phrases are instantly translated and spoken aloud in a second language. 
+Speech translation is the process by which conversational spoken phrases are instantly translated and spoken aloud in a second language.
+
 <Br>
   
 ## Start Window
